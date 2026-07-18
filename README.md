@@ -9,9 +9,10 @@ Kentjana, Andreas (2025), “Indonesian Hospital Review Dataset XLSX [25K]”, M
 # IndoBERT
 Model pre-trained IndoBERT digunakan untuk menganalisis sentimen yang terkandung dalam teks ulasan rumah sakit pada dataset.
 
-<img width="2250" height="1200" alt="indobert_accuracy_curves" src="https://github.com/user-attachments/assets/b1340def-a2ad-49a4-a866-36a603a9862b" />
+<img width="725" height="382" alt="indobert_accuracy_curves" src="https://github.com/user-attachments/assets/de8bca64-ed2a-4c2f-9b13-5e5b0fce21a9" />
 
-<img width="900" height="750" alt="indobert_confusion_matrix" src="https://github.com/user-attachments/assets/86d1295e-82ac-4009-b745-b4e906622fe1" />
+<img width="521" height="449" alt="indobert_confusion_matrix" src="https://github.com/user-attachments/assets/8e718b5e-dfa0-43c6-81a9-fd6367f1da6f" />
+
 
 # SVM
 Model Support Vector Machine (SVM) digunakan sebagai model machine learning konvensional untuk menganalisis sentimen yang terkandung dalam teks ulasan rumah sakit pada dataset.
